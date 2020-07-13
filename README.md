@@ -1,6 +1,13 @@
 # MAX31855K-thermocouple-breakout
 A guide for hooking up and getting started with the Sparkfun MAX31855K Thermocouple Breakout.
 
+## Setup:
+  * Download the code and open it in the Arduino IDE.
+  * Wire up the MAX31855K Thermocouple Breakout to an Arduino board (an Arduino Uno is used in this example).
+  * Connect the Arduino board to the computer running the Arduino IDE.
+  * Upload the code from the Arduino IDE to the Arduino board (Ctrl+U is the default shortcut).
+  * Open the Serial Monitor of the Arduino IDE (Ctrl+Shift+M is the default shortcut).
+
 ## Resources:
   ### Sparkfun MAX31855K GitHub repo:
     https://github.com/sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library
