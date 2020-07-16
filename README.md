@@ -9,15 +9,15 @@ A guide for hooking up and getting started with the Sparkfun MAX31855K Thermocou
   * Open the Serial Monitor of the Arduino IDE (<kbd>Ctrl+Shift+M</kbd> is the default shortcut). The Serial Monitor window will open and should show "Beginning..." followed by the temperature of the thermocouple in Celcius and Fahrenheit in 1 second intervals.
 
 ## Resources
-  ### Sparkfun MAX31855K GitHub repo:
+  ### Sparkfun MAX31855K GitHub repo
     https://github.com/sparkfun/SparkFun_MAX31855K_Thermocouple_Breakout_Arduino_Library
-  ### Arduino SPI pin reference ("Connections" Section):
+  ### Arduino SPI pin reference ("Connections" Section)
     https://www.arduino.cc/en/reference/SPI
-  ### Arduino Uno:
+  ### Arduino Uno
     https://www.sparkfun.com/products/11021
-  ### Sparkfun MAX31855K Thermocouple Breakout:
+  ### Sparkfun MAX31855K Thermocouple Breakout
     https://www.sparkfun.com/products/13266
-  ### Thermocouple Connector (optional):
+  ### Thermocouple Connector (optional)
     https://www.sparkfun.com/products/13612
  
 ## Notes
